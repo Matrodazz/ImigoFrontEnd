@@ -1,34 +1,21 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Imigo
+A Imigo irá conectar Consumidor, Assistência técnica e Empresa em um único lugar, fazendo a jornada pós venda de produtos duráveis muito mais simples e segura.
+Seremos um Hub de gestão de chamados de suporte técnico para defeitos ou trocas em aparelhos e eletrodomésticos, contando com as melhores Assistências técnicas da região, autorizadas e treinadas pelas empresas fornecedoras dos produtos.
 
-## Getting Started
+## Repositorio API
+`https://github.com/Matrodazz/ImigoAPI`
 
-First, run the development server:
+## Integrantes
+* João Victor Jales RM94673
+* Vitor dos Santos Moreira RM93101
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+## Utilização
+Clone o repositório do Front
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+`git clone https://github.com/Matrodazz/ImigoAPI.git`
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Inicie a aplicação
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+`npm run dev`
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Utilize a API em `https://github.com/Matrodazz/ImigoAPI` para exibir os dados.
